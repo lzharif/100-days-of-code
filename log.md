@@ -17,3 +17,9 @@
 **Today's Progress**: Migrating some libary for @sahabatsehati_id apps, including fixing bugs that occured due to this change.
 
 **Thoughts:** It's a best practice to learn from documentation and example that provided by library user. I learned it the hard way.
+
+### Day 4: December 31, 2017 
+
+**Today's Progress**: Learning Firebase Cloud Function for @sahabatsehati_id apps.
+
+**Thoughts:** I just thought to deepen my knowledge on Cloud Function as it's a core function for some of @sahabatsehati_id features
