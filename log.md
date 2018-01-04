@@ -29,3 +29,9 @@
 **Today's Progress**: I learned an interactive fiction IDE named Twine (twinery.org). This IDE combine the word processor and macros that enable writer to make their story into interactive ones. This IDE even enables me to create IF function for my game book named Entropi.
 
 **Thoughts:** Though Twine provided tools to create Interactive Fiction with ease, I still prefer to release full story in android apps. However, this IDE gives me a good starting point on creating an interactive algorithm.
+
+### Day 6: January 3, 2018
+
+**Today's Progress**: I created a model, viewholder, and function to retrieve quiz list for @sahabatsehati_id
+
+**Thoughts:** I realized it's better to plan on what I intend to build instead of dive right into IDE.
