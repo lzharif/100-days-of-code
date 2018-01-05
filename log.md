@@ -41,3 +41,9 @@
 **Today's Progress**: I learned how to create messaging apps from [Firebase Code Labs](https://codelabs.developers.google.com/codelabs/firebase-android/). I also learned that there's a feature in Android Studio called [Resizable Bitmap](https://developer.android.com/studio/write/draw9patch.html). These material surely useful for me in developing @sahabatsehati_id apps
 
 **Thoughts:** I stumbled upon android library called [ChatKit](https://github.com/stfalcon-studio/ChatKit). Though it's pretty neat, I'll use it later.
+
+### Day 8: January 5, 2018
+
+**Today's Progress**: I created a model, viewholder, and function to retrieve chat in @sahabatsehati_id apps, though it's still using dummy data.
+
+**Thoughts:** I intend to add more features in the following days. However, I need to focus more on the core features. Therefore, I can release the MVP faster to a market.
