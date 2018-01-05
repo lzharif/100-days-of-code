@@ -35,3 +35,9 @@
 **Today's Progress**: I created a model, viewholder, and function to retrieve quiz list for @sahabatsehati_id
 
 **Thoughts:** I realized it's better to plan on what I intend to build instead of dive right into IDE.
+
+### Day 7: January 4, 2018
+
+**Today's Progress**: I learned how to create messaging apps from [Firebase Code Labs](https://codelabs.developers.google.com/codelabs/firebase-android/). I also learned that there's a feature in Android Studio called [Resizable Bitmap](https://developer.android.com/studio/write/draw9patch.html). These material surely useful for me in developing @sahabatsehati_id apps
+
+**Thoughts:** I stumbled upon android library called [ChatKit](https://github.com/stfalcon-studio/ChatKit). Though it's pretty neat, I'll use it later.
