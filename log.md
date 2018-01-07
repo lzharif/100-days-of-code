@@ -47,3 +47,9 @@
 **Today's Progress**: I created a model, viewholder, and function to retrieve chat in @sahabatsehati_id apps, though it's still using dummy data.
 
 **Thoughts:** I intend to add more features in the following days. However, I need to focus more on the core features. Therefore, I can release the MVP faster to a market.
+
+### Day 9: January 6, 2018
+
+**Today's Progress**: I'm adding the feature for user to see other profile page in @sahabatsehati_id apps.
+
+**Thoughts:** Seems like using Fragment in apps give user flowing experience, rather than using activity.
