@@ -53,3 +53,9 @@
 **Today's Progress**: I'm adding the feature for user to see other profile page in @sahabatsehati_id apps.
 
 **Thoughts:** Seems like using Fragment in apps give user flowing experience, rather than using activity.
+
+### Day 10: January 7, 2018
+
+**Today's Progress**: I have finished creating profile seeing for user. I also able to fix bugs in displaying list of quiz using query system.
+
+**Thoughts:** Good artist copy, yet great artist steal! This proverb applies also in Android apps development :)
