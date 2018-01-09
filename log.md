@@ -59,3 +59,9 @@
 **Today's Progress**: I have finished creating profile seeing for user. I also able to fix bugs in displaying list of quiz using query system.
 
 **Thoughts:** Good artist copy, yet great artist steal! This proverb applies also in Android apps development :)
+
+### Day 11: January 8, 2018
+
+**Today's Progress**: I'm doing machine learning test for my research project, named White Blood Cells Counting System based on Image Processing and Machine Learning. I also learned that Feature Engineering is an essential part in developing an A.I system. Source [here](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+
+**Thoughts:** For a following week, I gotta do data extraction. Phew, must be a legit thing to do!
