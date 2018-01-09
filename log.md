@@ -65,3 +65,9 @@
 **Today's Progress**: I'm doing machine learning test for my research project, named White Blood Cells Counting System based on Image Processing and Machine Learning. I also learned that Feature Engineering is an essential part in developing an A.I system. Source [here](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
 
 **Thoughts:** For a following week, I gotta do data extraction. Phew, must be a legit thing to do!
+
+### Day 12: January 9, 2018
+
+**Today's Progress**: I'm doing data extraction for my research project. I also fixing a flow of registration in @sahabatsehati_id apps.
+
+**Thoughts:** Looks like I need to focus more on sharpen my current skills: Machine Learning, Android Developer, and SEO.
