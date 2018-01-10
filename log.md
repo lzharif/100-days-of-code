@@ -71,3 +71,9 @@
 **Today's Progress**: I'm doing data extraction for my research project. I also fixing a flow of registration in @sahabatsehati_id apps.
 
 **Thoughts:** Looks like I need to focus more on sharpen my current skills: Machine Learning, Android Developer, and SEO.
+
+### Day 13: January 10, 2018
+
+**Today's Progress**: I learned that in this current age of technology, data can provide us with better insight on everything. [This article](https://medium.freecodecamp.org/clustering-the-top-1-asset-analysis-in-r-6c529b382b42) provides us with household asset analysis in US using only R.
+
+**Thoughts:** Seems like data scientist is a big job right now.
