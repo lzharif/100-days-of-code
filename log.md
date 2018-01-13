@@ -77,3 +77,15 @@
 **Today's Progress**: I learned that in this current age of technology, data can provide us with better insight on everything. [This article](https://medium.freecodecamp.org/clustering-the-top-1-asset-analysis-in-r-6c529b382b42) provides us with household asset analysis in US using only R.
 
 **Thoughts:** Seems like data scientist is a big job right now.
+
+### Day 14: January 11, 2018
+
+**Today's Progress**: I'm still fixing the flow of registration in @sahabatsehati_id
+
+**Thoughts:** It's quite hard to juggle between responsibilities
+
+### Day 15: January 12, 2018
+
+**Today's Progress**: Still in a way to fixing the flow of registration in @sahabatsehati_id using fragment.
+
+**Thoughts:** Having sleep deprivation really hinder my ability to think. Hmm..
