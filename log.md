@@ -89,3 +89,15 @@
 **Today's Progress**: Still in a way to fixing the flow of registration in @sahabatsehati_id using fragment.
 
 **Thoughts:** Having sleep deprivation really hinder my ability to think. Hmm..
+
+### Day 16: January 13, 2018
+
+**Today's Progress**: I'm in my way to finish @sahabatsehati_id quiz feature. Still confused on how to download array from Firebase Database..
+
+**Thoughts:** It's the matter of ready or not to release the application. Just two more features please..
+
+### Day 17: January 14, 2018
+
+**Today's Progress**: I have finished 3rd week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section I learned that quantity of data sources may pose an issue to big data systems. This problem can be solved through building schema that can convert in and out data model between sources, and integrate it. I also learned Splunk. Seems like it can be used for my next venture!
+
+**Thoughts:** Having an allergy may hinder my thinking process, so I have to limit my chocolate consumption :(
