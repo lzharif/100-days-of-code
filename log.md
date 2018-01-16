@@ -101,3 +101,9 @@
 **Today's Progress**: I have finished the 3rd week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned that quantity of data sources may pose an issue to a big data systems. This problem can be solved by building a schema that can convert in and out data model between sources, and integrate it. I also learned Splunk. Seems like it can be used for my next venture!
 
 **Thoughts:** Having an allergy may hinder my thinking process, so I have to limit my chocolate consumption :(
+
+### Day 18: January 15, 2018
+
+**Today's Progress**: I continue to integrating a new registration flow for @sahabatsehati_id apps
+
+**Thoughts:** It's better to fix bugs ASAP.
