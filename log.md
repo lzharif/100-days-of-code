@@ -107,3 +107,15 @@
 **Today's Progress**: I continue to integrating a new registration flow for @sahabatsehati_id apps
 
 **Thoughts:** It's better to fix bugs ASAP.
+
+### Day 19: January 16, 2018
+
+**Today's Progress**: Right now, I try to implement quiz feature into @sahabatsehati_id. Still have no idea on how to integrate calculation method for this feature. Should I use online function? Or just offline?
+
+**Thoughts:** Firebase, easy to use, hard to master
+
+### Day 20: January 17, 2018
+
+**Today's Progress**: Today I added some code for Cidar (Citra Darah) so it can classify new White Blood Cells type named 'Stab'
+
+**Thoughts:** Looks like documentation is a core thing in every coding project..
