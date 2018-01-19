@@ -119,3 +119,9 @@
 **Today's Progress**: Today I added some code for Cidar (Citra Darah) so it can classify new White Blood Cells type named 'Stab'
 
 **Thoughts:** Looks like documentation is a core thing in every coding project..
+
+### Day 21: January 18, 2018
+
+**Today's Progress**: Today I have done creating a method for calculating quiz result. However, it's much easier for me to implement the quiz activity using fragment.
+
+**Thoughts:** There are so many possible ways to reach our destination.
