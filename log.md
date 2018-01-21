@@ -125,3 +125,21 @@
 **Today's Progress**: Today I have done creating a method for calculating quiz result. However, it's much easier for me to implement the quiz activity using fragment.
 
 **Thoughts:** There are so many possible ways to reach our destination.
+
+### Day 22: January 19, 2018
+
+**Today's Progress**: Still tinkering with @sahabatsehati_id quiz features. It looks like a post feature, however I have to create the calculation method locally.
+
+**Thoughts:** Still have no idea on implementing cloud functions. Hmm, maybe later..
+
+### Day 23: January 20, 2018
+
+**Today's Progress**: Through countless night, allergy, and cold weather, I managed to bring quiz feature of @sahabatsehati_id into reality! Though it's still local function, it worked like a charm!
+
+**Thoughts:** Perseverance really pays off, for now..
+
+### Day 24: January 21, 2018
+
+**Today's Progress**: Today I have finished learning 
+
+**Thoughts:** I have finished the 4th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned that big data architecture depends on its application. It's best to know what core requirement of big data application such as fault tolerance, latency, complexity etc. I also learned using PySpark on how to build words counting system.
