@@ -140,6 +140,12 @@
 
 ### Day 24: January 21, 2018
 
-**Today's Progress**: Today I have finished learning 
+**Today's Progress**: I have finished the 4th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned that big data architecture depends on its application. It's best to know what core requirement of big data application such as fault tolerance, latency, complexity etc. I also learned using PySpark on how to build words counting system.
 
-**Thoughts:** I have finished the 4th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned that big data architecture depends on its application. It's best to know what core requirement of big data application such as fault tolerance, latency, complexity etc. I also learned using PySpark on how to build words counting system.
+**Thoughts:** The more you learn, the more you realize you know nothing..
+
+### Day 25: January 22, 2018
+
+**Today's Progress**: Today I started on learning on deploying cloud function in Firebase. This function is essential for notification feature in @sahabatsehati_id apps.
+
+**Thoughts:** Looks like I will stick using scrum method to manage my current research project..
