@@ -149,3 +149,15 @@
 **Today's Progress**: Today I started on learning on deploying cloud function in Firebase. This function is essential for notification feature in @sahabatsehati_id apps.
 
 **Thoughts:** Looks like I will stick using scrum method to manage my current research project..
+
+### Day 26: January 23, 2018
+
+**Today's Progress**: Today I analyzed how [Social-app-android](https://github.com/rozdoum/social-app-android) notification works. They used dedicated post-likes directory and track its change. Looks like I can implement it, but without create that.
+
+**Thoughts:** I need time to create this. But, is this feature (notification) really worthed it?
+
+### Day 27: January 24, 2018
+
+**Today's Progress**: Today I refreshed my machine learning skill by creating a simple SVM training on White Blood Cells.
+
+**Thoughts:** Looks like I have to prepare coffee just to do programming at night :/
