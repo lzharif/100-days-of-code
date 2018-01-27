@@ -161,3 +161,15 @@
 **Today's Progress**: Today I refreshed my machine learning skill by creating a simple SVM training on White Blood Cells.
 
 **Thoughts:** Looks like I have to prepare coffee just to do programming at night :/
+
+### Day 28: January 25, 2018
+
+**Today's Progress**: I still analyzed on how [Social-app-android](https://github.com/rozdoum/social-app-android) notification feature works.
+
+**Thoughts:** Having too much target might cause frustation and hinder our progress. I have to make my target more realistic
+
+### Day 28: January 26, 2018
+
+**Today's Progress**: I tried to implemented code from [Social-app-android](https://github.com/rozdoum/social-app-android). I just need to re-adjust my Firebase Database
+
+**Thoughts:** Youtube channel from [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) might be an easy way to learn popular machine learning / AI program.
