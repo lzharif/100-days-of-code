@@ -173,3 +173,15 @@
 **Today's Progress**: I tried to implemented code from [Social-app-android](https://github.com/rozdoum/social-app-android). I just need to re-adjust my Firebase Database
 
 **Thoughts:** Youtube channel from [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) might be an easy way to learn popular machine learning / AI program.
+
+### Day 29: January 27, 2018
+
+**Today's Progress**: I tried to implemented code from [Social-app-android](https://github.com/rozdoum/social-app-android). For now, I choose to log the puk-puk (like) event in different folder on Firebase Database. While it's seems counterproductive, Firebase requires us to [denormalize the database structure](https://firebase.google.com/docs/database/web/structure-data#flatten_data_structures). 
+
+**Thoughts:** While others follow 30 days story, I choose to tell the story for machine. Neat.
+
+### Day 30: January 28, 2018
+
+**Today's Progress**: I have finished the 5th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned the structure of PySpark and how to stream the data using PySpark streaming function. It will be useful for my next venture!
+
+**Thoughts:** Knowledge pays the best interest, hence I register many online courses :)
