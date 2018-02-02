@@ -185,3 +185,22 @@
 **Today's Progress**: I have finished the 5th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). In this section, I learned the structure of PySpark and how to stream the data using PySpark streaming function. It will be useful for my next venture!
 
 **Thoughts:** Knowledge pays the best interest, hence I register many online courses :)
+
+### Day 31: January 29, 2018
+
+**Today's Progress**: I tried to finish the 6th week of [Big Data Integration and Processing by University of California, San Diego](https://www.coursera.org/learn/big-data-integration-processing/home/info). However, I stuck at implementing the lambda function of Python to map the array of data :(. Might try again anytime soon.
+
+**Thoughts:** Failure often put us down. Yet show must go on!
+
+### Day 32: January 30, 2018
+
+**Today's Progress**: I'm implemented the new model of "PukPuk" (similar to Like feature in Facebook) into transaction when people press PukPuk to a post in @sahabatsehati_id. Still, I haven't tested it.
+
+**Thoughts:** Having stuck in implementing the function is suck sometimes.
+
+
+### Day 33: January 31, 2018
+
+**Today's Progress**: I learned about deep learning for natural language processing (NLP). Well, it may be used for my next project, or next career. The link is [here](https://blog.altoros.com/building-an-answerbot-with-tensorflow-and-keras.html)
+
+**Thoughts:** Currently I stick to learning [Data Science A-Z](https://www.udemy.com/datascience) and [Career in Data Science](https://www.udemy.com/careers-in-data-science-a-ztm) by SuperDataScienceTeam. The course material is solid rock and engaging!
