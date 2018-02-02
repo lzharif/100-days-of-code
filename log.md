@@ -204,3 +204,8 @@
 **Today's Progress**: I learned about deep learning for natural language processing (NLP). Well, it may be used for my next project, or next career. The link is [here](https://blog.altoros.com/building-an-answerbot-with-tensorflow-and-keras.html)
 
 **Thoughts:** Currently I stick to learning [Data Science A-Z](https://www.udemy.com/datascience) and [Career in Data Science](https://www.udemy.com/careers-in-data-science-a-ztm) by SuperDataScienceTeam. The course material is solid rock and engaging!
+
+### Day 34: February 2, 2018
+
+**Today's Progress**: I'm testing PukPuk model in @sahabatsehati_id for notification function. It's working so long as you implement it in onComplete method.
+**Thoughts:** I missed on my coding streak yesterday :(. Looks like I have to write it everyday to make me remember on what I code that day, instead taking a batch update like before. So be it..
