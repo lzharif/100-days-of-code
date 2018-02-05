@@ -209,3 +209,13 @@
 
 **Today's Progress**: I'm testing PukPuk model in @sahabatsehati_id for notification function. It's working so long as you implement it in onComplete method.
 **Thoughts:** I missed on my coding streak yesterday :(. Looks like I have to write it everyday to make me remember on what I code that day, instead taking a batch update like before. So be it..
+
+### Day 35: February 3, 2018
+
+**Today's Progress**: I'm creating model class for notification and notification manager method. It's still not clear however, as I have to fix the missing method and test its performance.
+**Thoughts:** Sometimes I think that 24 hours a day is not enough :(
+
+### Day 36: February 4, 2018
+
+**Today's Progress**: Today I focused on relearning Tensorflow Deep Learning in many Medium articles. From there I just know that Tensorflow release its lite version, which enables us to deploy much efficient model into a smartphone apps.
+**Thoughts:** I just read a [Machine Learning Yearning] (http://www.mlyearning.org/) by Andrew Ng. This ebook is a must-read for those who want to learnmachine learning.
