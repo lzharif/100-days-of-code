@@ -219,3 +219,8 @@
 
 **Today's Progress**: Today I focused on relearning Tensorflow Deep Learning in many Medium articles. From there I just know that Tensorflow release its lite version, which enables us to deploy much efficient model into a smartphone apps.
 **Thoughts:** I just read a [Machine Learning Yearning] (http://www.mlyearning.org/) by Andrew Ng. This ebook is a must-read for those who want to learnmachine learning.
+
+### Day 37: February 5, 2018
+
+**Today's Progress**: Today I learned about Admob & Firebase in [Youtube](https://www.youtube.com/watch?v=9qCxo0D-Sak)
+**Thoughts:** SuperDataScience's podcast is awesome! If you want to become a top data scientist, you gotta listen to this [podcast](https://www.superdatascience.com/sds-001-ruben-kogel-on-self-serve-analytics-r-vs-python-and-mentors-in-data-science)!
