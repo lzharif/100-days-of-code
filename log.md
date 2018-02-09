@@ -240,3 +240,7 @@
 **Today's Progress**: Today I learned how to prepare dataset properly, including on sources of dataset which you can check in [here](https://github.com/awesomedata/awesome-public-datasets), [here](https://www.kaggle.com/datasets), and [also here](https://www.reddit.com/r/datasets/). I also learn on how to make a video game bot using OpenAI.
 **Thoughts:** I'm quite attached with the data science. Looks like I need to finish my course ASAP.
 
+### Day 41: February 9, 2018
+
+**Today's Progress**: Today I learned about how to create movie recommendation system using LightFM library and Python. Link is [here](https://www.youtube.com/watch?v=9gBC9R-msAk&index=3&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+**Thoughts:** At least today I managed to do some demo from this tutorial..
