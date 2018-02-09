@@ -224,3 +224,19 @@
 
 **Today's Progress**: Today I learned about Admob & Firebase in [Youtube](https://www.youtube.com/watch?v=9qCxo0D-Sak)
 **Thoughts:** SuperDataScience's podcast is awesome! If you want to become a top data scientist, you gotta listen to this [podcast](https://www.superdatascience.com/sds-001-ruben-kogel-on-self-serve-analytics-r-vs-python-and-mentors-in-data-science)!
+
+### Day 38: February 6, 2018
+
+**Today's Progress**: Today I learned how to generate text using Machine Learning. I also learn from Youtube on how to do sentiment analysis.
+**Thoughts:** For about a couple of days, I will accompany my parents in Yogyakarta. So, I can only do streaks of #100DaysOfCode by learning code in Youtube. Show must go on!
+
+### Day 39: February 7, 2018
+
+**Today's Progress**: Today I learned on the proper way to visualize hyper-dimensional data using dimensionality reduction. I just know that stock price can be predicted using Machine Learning.
+**Thoughts:** Looks like I have to prepare to promote my skills in internet. Hmm...
+
+### Day 40: February 8, 2018
+
+**Today's Progress**: Today I learned how to prepare dataset properly, including on sources of dataset which you can check in [here](https://github.com/awesomedata/awesome-public-datasets), [here](https://www.kaggle.com/datasets), and [also here](https://www.reddit.com/r/datasets/). I also learn on how to make a video game bot using OpenAI.
+**Thoughts:** I'm quite attached with the data science. Looks like I need to finish my course ASAP.
+
