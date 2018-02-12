@@ -244,3 +244,18 @@
 
 **Today's Progress**: Today I learned about how to create movie recommendation system using LightFM library and Python. Link is [here](https://www.youtube.com/watch?v=9gBC9R-msAk&index=3&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 **Thoughts:** At least today I managed to do some demo from this tutorial..
+
+### Day 42: February 10, 2018
+
+**Today's Progress**: Today I learned about how to get started diving in Kaggle Competition. The source of article is [here](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
+**Thoughts:** It's hard to find ideal house in Yogyakarta while learning Data Science
+
+### Day 43: February 11, 2018
+
+**Today's Progress**: Today I learned about how to train machine learning on cloud. Link is [here](https://www.youtube.com/watch?v=Bgwujw-yom8)
+**Thoughts:** Maybe it's time for me to update my CV. Wait for it, bro!
+
+### Day 44: February 12, 2018
+
+**Today's Progress**: Today I continued on creating notification function for @sahabatsehati_id apps. I managed to create a notification input, however still confused on merging notification with a 'same key'.
+**Thoughts:** This jumuah khutbah by Ustadz Dr. Khalid Basalamah surely blew my mind. You should check it [here](https://www.youtube.com/watch?v=QUYeHCNFMtU)
