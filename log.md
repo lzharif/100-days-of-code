@@ -259,3 +259,29 @@
 
 **Today's Progress**: Today I continued on creating notification function for @sahabatsehati_id apps. I managed to create a notification input, however still confused on merging notification with a 'same key'.
 **Thoughts:** This jumuah khutbah by Ustadz Dr. Khalid Basalamah surely blew my mind. You should check it [here](https://www.youtube.com/watch?v=QUYeHCNFMtU)
+
+### Day 45: February 13, 2018
+
+**Today's Progress**: Today I continued on creating notification function for @sahabatsehati_id apps by creating its viewholder.
+**Thoughts:** The show must go on!
+
+### Day 46: February 14, 2018
+
+**Today's Progress**: Today I continued on creating notification function, by creating the layout for it.
+**Thoughts:** Medical operation surely scary, even if it's only a minor one.
+
+### Day 47: February 15, 2018
+
+**Today's Progress**: Today I continued on creating notification function for @sahabatsehati_id apps. I intend to merge the notification from the same user, but it's still not succeed.
+**Thoughts:** Data science surely becomes a job of the future.
+
+### Day 48: February 16, 2018
+
+**Today's Progress**: I made some modification on my codes to merge only the puk-puk Notification, instead of both new puk-puk and comment, however I haven't tested it
+**Thoughts:** Looks like procrastination is my real enemy right now..
+
+### Day 49: February 17, 2018
+
+**Today's Progress**: Today I only learned how to conduct data exploration on house price problem in [Kaggle](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python). The author surely has a humour in making this notebook :D
+**Thoughts:** It's quite a busy day, despite it's a holiday.
+
