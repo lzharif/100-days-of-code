@@ -285,3 +285,17 @@
 **Today's Progress**: Today I only learned how to conduct data exploration on house price problem in [Kaggle](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python). The author surely has a humour in making this notebook :D
 **Thoughts:** It's quite a busy day, despite it's a holiday.
 
+### Day 50: February 18, 2018
+
+**Today's Progress**: Today I continued on creating notification function for @sahabatsehati_id apps. I managed to simplify the code of NotificationManager. I also able to fix the error when Preference doesn't display in Android 8.0 when the PreferenceFragment class isn't static class.
+**Thoughts:** Creating a solid apps surely takes time.
+
+### Day 51: February 19, 2018
+
+**Today's Progress**: I managed to implement offline capabilities for Sahabat Sehati apps. I also able to test notification function although it doesn't gives notif in status bar. Firebase Analytics function also has been implemented to get statistic on how user interact with apps.
+**Thoughts:** Trying to push too much without treating your body is a sure way to get sick, and decrease your productivity.
+
+### Day 52: February 20, 2018
+
+**Today's Progress**: Today I added a crash reporting feature and still in a way to create ads feature for Sahabat Sehati apps.
+**Thoughts:** Shall I apply for a job, instead of creating a startup? Or both :v ?
