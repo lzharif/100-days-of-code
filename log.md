@@ -299,3 +299,13 @@
 
 **Today's Progress**: Today I added a crash reporting feature and still in a way to create ads feature for Sahabat Sehati apps.
 **Thoughts:** Shall I apply for a job, instead of creating a startup? Or both :v ?
+
+### Day 53: February 21, 2018
+
+**Today's Progress**: I have implemented Adsmob in @sahabatsehati_id apps. However, it's still on Quiz Fragment.
+**Thoughts:** Coding while preparing for a wedding. That's something :v
+
+### Day 54: February 22, 2018
+
+**Today's Progress**: Today i learned on how to create a text summary using Python via Youtube.
+**Thoughts:** Such a tiring day..
