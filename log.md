@@ -309,3 +309,13 @@
 
 **Today's Progress**: Today i learned on how to create a text summary using Python via Youtube.
 **Thoughts:** Such a tiring day..
+
+### Day 55: February 23, 2018
+
+**Today's Progress**: Today i learned on the technical of Generative Artificial Intelligence and programming of @sahabatsehati_id apps.
+**Thoughts:** Tomorrow is a big day...
+
+### Day 56: February 27, 2018
+
+**Today's Progress**: Today i learned some knowledge on how to build chat bots using API
+**Thoughts:** Love is precious <3
