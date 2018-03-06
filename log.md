@@ -319,3 +319,18 @@
 
 **Today's Progress**: Today i learned some knowledge on how to build chat bots using API
 **Thoughts:** Love is precious <3
+
+### Day 57: March 4, 2018
+
+**Today's Progress**: Today i learned on how to do data analytics using web data. Link is [here](https://towardsdatascience.com/data-analytics-with-python-by-web-scraping-illustration-with-cia-world-factbook-abbdaa687a84)
+**Thoughts:** Another unique day :)
+
+### Day 58: March 5, 2018
+
+**Today's Progress**: Today i learned on how to build CMS using Google Apps Script. Tutorial is in [here](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
+**Thoughts:** No thought on programming today
+
+### Day 59: March 6, 2018
+
+**Today's Progress**: Today i create a repo for my research group on classifying White Blood Cells using Machine Learning. Link in [here](https://github.com/zharfi/GRSV-Research)
+**Thoughts:** Having a new life means I have to adopt a new habit. hmmm..
