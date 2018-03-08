@@ -334,3 +334,8 @@
 
 **Today's Progress**: Today i create a repo for my research group on classifying White Blood Cells using Machine Learning. Link in [here](https://github.com/zharfi/GRSV-Research)
 **Thoughts:** Having a new life means I have to adopt a new habit. hmmm..
+
+### Day 60: March 7, 2018
+
+**Today's Progress**: Today i create a template for dataset exploration and preprocess using Python.
+**Thoughts:** Stick to the plan is the best way I can do right now
