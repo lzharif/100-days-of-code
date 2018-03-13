@@ -339,3 +339,8 @@
 
 **Today's Progress**: Today i create a template for dataset exploration and preprocess using Python.
 **Thoughts:** Stick to the plan is the best way I can do right now
+
+### Day 61: March 12, 2018
+
+**Today's Progress**: Today i refresh my knowledge of R programming by doing some coding exercise
+**Thoughts:** So little time..
