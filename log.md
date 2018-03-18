@@ -344,3 +344,18 @@
 
 **Today's Progress**: Today i refresh my knowledge of R programming by doing some coding exercise
 **Thoughts:** So little time..
+
+### Day 62: March 15, 2018
+
+**Today's Progress**: Today i learn the experience of speech recognition competition in Kaggle from [this article](https://towardsdatascience.com/kaggle-tensorflow-speech-recognition-challenge-b46a3bca2501)
+**Thoughts:** It's a matter on how much tricks you have in your sleeve
+
+### Day 63: March 16, 2018
+
+**Today's Progress**: I learn on how to do CRUD using Python and Google Spreadsheet. Link is [here](https://www.youtube.com/watch?v=vISRn5qFrkM)
+**Thoughts:** Sometimes freebies are powerful enough to create cool stuff.
+
+### Day 64: March 17, 2018
+
+**Today's Progress**: I learn on how to do traditional feature extraction on text data. Link is [here](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
+**Thoughts:** The future is scary, yet it's fun!
