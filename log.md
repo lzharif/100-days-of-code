@@ -359,3 +359,13 @@
 
 **Today's Progress**: I learn on how to do traditional feature extraction on text data. Link is [here](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
 **Thoughts:** The future is scary, yet it's fun!
+
+### Day 65: March 19, 2018
+
+**Today's Progress**: I revised the function on @sahabatsehati_id apps so it can display quiz with different answer type. 
+**Thoughts:** It's courage that takes the dream into reality
+
+### Day 66: March 20, 2018
+
+**Today's Progress**: Today I added the invitation function for @sahabatsehati_id. However, our apps hasn't been released in Google Play
+**Thoughts:** Maybe I can implement AI for Sahabat Sehati? Okay, maybe next time.
