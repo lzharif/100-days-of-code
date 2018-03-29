@@ -369,3 +369,24 @@
 
 **Today's Progress**: Today I added the invitation function for @sahabatsehati_id. However, our apps hasn't been released in Google Play
 **Thoughts:** Maybe I can implement AI for Sahabat Sehati? Okay, maybe next time.
+
+
+### Day 67: March 23, 2018
+
+**Today's Progress**: I revised the 'about page' of @sahabatsehati_id apps.
+**Thoughts:** It's important to learn in swift yet frequent!
+
+### Day 68: March 25, 2018
+
+**Today's Progress**: Today I just learned that .npy file format is way more efficient than .csv in terms of saving and loading data. Source in [here](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
+**Thoughts:** Learn while managing a new family is quite challenging :)
+
+### Day 69: March 26, 2018
+
+**Today's Progress**: I created a list of libraries page that support @sahabatsehati_id apps using Recyclerview.
+**Thoughts:** The best way to embrace a tide is to surf alongside it
+
+### Day 70: March 27, 2018
+
+**Today's Progress**: Today I managed to polish libraries page for @sahabatsehati_id. I also started to create function for administrator to delete post in @sahabatsehati_id apps.
+**Thoughts:** Sometimes small function may require a heavy change in whole program.
