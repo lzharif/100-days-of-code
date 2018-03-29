@@ -388,5 +388,10 @@
 
 ### Day 70: March 27, 2018
 
-**Today's Progress**: Today I managed to polish libraries page for @sahabatsehati_id. I also started to create function for administrator to delete post in @sahabatsehati_id apps.
-**Thoughts:** Sometimes small function may require a heavy change in whole program.
+**Today's Progress**: Today I still in a progress on implementing post delete function for administrator. I also learn that you can search material icon in [here](http://romannurik.github.io/AndroidAssetStudio/index.html)
+**Thoughts:** Laziness is a dangerous enemy. Probably for this kind of 100 days of code challenge!
+
+### Day 71: March 28, 2018
+
+**Today's Progress**: Finally I'm able to implemented a fully working post (and comment) delete function for @sahabatsehati_id apps. Phew!
+**Thoughts:** One long day of coding is not good for your health, except if you actively move your butt regularly..
