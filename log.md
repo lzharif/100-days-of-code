@@ -395,3 +395,10 @@
 
 **Today's Progress**: Finally I'm able to implemented a fully working post (and comment) delete function for @sahabatsehati_id apps. Phew!
 **Thoughts:** One long day of coding is not good for your health, except if you actively move your butt regularly..
+
+### Day 72: March 29, 2018
+
+**Today's Progress**: Today I created a menu in @sahabatsehati_id to link user to survey page.
+**Thoughts:** Another day with another knowledge
+
+
