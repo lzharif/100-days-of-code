@@ -411,3 +411,8 @@
 
 **Today's Progress**: I fixed bug in @sahabatsehati_id apps where database reference return exception after applying persistence function. It turns out that setPersistenceEnabled() must be called before any use of database reference function.
 **Thoughts:** I don't know why, but it seems that editing project's gradle file caused lag in Android Studio 3.1. Should I buy an extra ram now?
+
+### Day 75: April 1, 2018
+
+**Today's Progress**: I learned some feature engineering and method for Natural Language Processing.
+**Thoughts:** Quick learn, quick implement
