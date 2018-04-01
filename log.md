@@ -402,3 +402,12 @@
 **Thoughts:** Another day with another knowledge
 
 
+### Day 73: March 30, 2018
+
+**Today's Progress**: Today I've done some libraries update for @sahabatsehati_id apps and fixing post category according to our team.
+**Thoughts:** It's not easy to adapt with new version of gradle in Android Studio 3.1, because not all libaries I use are compatible with this change..
+
+### Day 74: March 31, 2018
+
+**Today's Progress**: I fixed bug in @sahabatsehati_id apps where database reference return exception after applying persistence function. It turns out that setPersistenceEnabled() must be called before any use of database reference function.
+**Thoughts:** I don't know why, but it seems that editing project's gradle file caused lag in Android Studio 3.1. Should I buy an extra ram now?
