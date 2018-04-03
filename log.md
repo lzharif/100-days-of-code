@@ -421,3 +421,8 @@
 
 **Today's Progress**: I implemented an activity to check for @sahabatsehati_id [website](http://bit.ly/websehati) using webview. However, I haven't checked whether it's working or not.
 **Thoughts:** Looks like I have to finish all of tasks by myself. Whew -_-
+
+### Day 77: April 3, 2018
+
+**Today's Progress**: I fixed some bugs in @sahabatsehati_id and revamped the themes and UI for style consistency.
+**Thoughts:** Seems like this apps are 95% ready to release :)
