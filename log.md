@@ -416,3 +416,8 @@
 
 **Today's Progress**: I learned some feature engineering and method for Natural Language Processing.
 **Thoughts:** Quick learn, quick implement
+
+### Day 76: April 2, 2018
+
+**Today's Progress**: I implemented an activity to check for @sahabatsehati_id [website](http://bit.ly/websehati) using webview. However, I haven't checked whether it's working or not.
+**Thoughts:** Looks like I have to finish all of tasks by myself. Whew -_-
